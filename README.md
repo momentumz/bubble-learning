@@ -1,1 +1,1 @@
-# bubble-learning.com
+# bubble-learning
